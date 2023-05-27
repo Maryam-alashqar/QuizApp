@@ -54,11 +54,11 @@ class _HomePageState extends State<HomePage> {
                 currentAccountPicture: CircleAvatar(
                   radius: 30.0,
                   backgroundImage: NetworkImage(
-                    "https://ui-avatars.com/api/?background=random&name=Maryam+Ashqar",
+                    "https://ui-avatars.com/api/?background=random&name=Mar+Ash",
                   ),
                 ),
                 accountName: Text("Maryam Ashqar"),
-                accountEmail: Text("maryam@gmail.com")),
+                accountEmail: Text("maryamKashqar@gmail.com")),
             ListTile(
               leading: const Icon(Icons.edit),
               title: const Text("Create Quiz"),
